@@ -1,0 +1,6 @@
+{
+  "name": "Maturi Restaurant",
+  "description": "Maturi Restaurant & Hotel in Nuzvid - Authentic Biryanis, Andhra specialties, table booking, online food ordering, and digital dining experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
